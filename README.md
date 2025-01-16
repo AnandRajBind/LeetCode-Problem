@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AnandRajBind/LeetCode-Problem/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AnandRajBind/LeetCode-Problem/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/AnandRajBind/LeetCode-Problem/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/AnandRajBind/LeetCode-Problem/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/AnandRajBind/LeetCode-Problem/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/AnandRajBind/LeetCode-Problem/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/AnandRajBind/LeetCode-Problem/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/AnandRajBind/LeetCode-Problem/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnandRajBind/LeetCode-Problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AnandRajBind/LeetCode-Problem/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AnandRajBind/LeetCode-Problem/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/AnandRajBind/LeetCode-Problem/tree/master/0189-rotate-array) |
 ## String Matching
 |  |
 | ------- |
