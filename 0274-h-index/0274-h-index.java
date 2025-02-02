@@ -6,7 +6,7 @@ class Solution {
             if(c>n)
                 arr[n]++;
                 else
-arr[c]++;
+                arr[c]++;
             
         }
         int count =0;
